@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f4923f4-5d9f-4426-8291-82e2a4681a7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/auth/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/auth/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/auth/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/auth/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/auth/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/auth/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/auth/templates/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/catalog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/catalog/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
